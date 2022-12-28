@@ -55,3 +55,7 @@ This page is designed to attract the coustomer to choose the food of their choic
 Here a coutomer can contact us. We have given the contact details.
 
 ![Screenshot (923)](https://user-images.githubusercontent.com/91938145/209769335-b522547e-8299-4fb9-b3f8-983356e05161.png)
+
+This is all about my Projet.
+
+## Thanks for visiting.
