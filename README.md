@@ -21,7 +21,7 @@
 ##  Project Title : Food Blogging Website.
 
 #### Problem Statement/Opportunity :
-An Restorant company wants to build a sample Front End prototype website for their business as the online food blogging have been growing at an incredible rate,
+A Restorant company wants to build a sample Front End prototype website for their business as the online food blogging have been growing at an incredible rate,
 and so have ecommerce challenges.To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page, Menu, About Us, Contact Us.
 
 
